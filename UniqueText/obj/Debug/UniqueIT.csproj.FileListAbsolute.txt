@@ -1,0 +1,11 @@
+C:\Users\Admin\Desktop\UniqueIT\UniqueIT\bin\Debug\Unique-IT.exe.config
+C:\Users\Admin\Desktop\UniqueIT\UniqueIT\bin\Debug\AppDataDB.mdf
+C:\Users\Admin\Desktop\UniqueIT\UniqueIT\bin\Debug\AppDataDB_log.ldf
+C:\Users\Admin\Desktop\UniqueIT\UniqueIT\bin\Debug\Unique-IT.exe
+C:\Users\Admin\Desktop\UniqueIT\UniqueIT\bin\Debug\Unique-IT.pdb
+C:\Users\Admin\Desktop\UniqueIT\UniqueIT\obj\Debug\UniqueIT.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\UniqueIT\UniqueIT\obj\Debug\UniqueIT.frmMain.resources
+C:\Users\Admin\Desktop\UniqueIT\UniqueIT\obj\Debug\UniqueIT.Properties.Resources.resources
+C:\Users\Admin\Desktop\UniqueIT\UniqueIT\obj\Debug\UniqueIT.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\UniqueIT\UniqueIT\obj\Debug\Unique-IT.exe
+C:\Users\Admin\Desktop\UniqueIT\UniqueIT\obj\Debug\Unique-IT.pdb
