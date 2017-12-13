@@ -18,3 +18,14 @@ C:\Users\Admin\Desktop\UniqueIT\UniqueText\obj\Debug\UniqueText.csproj.GenerateR
 C:\Users\Admin\Desktop\UniqueIT\UniqueText\obj\Debug\UniqueText.exe
 C:\Users\Admin\Desktop\UniqueIT\UniqueText\obj\Debug\UniqueText.pdb
 C:\Users\Admin\Desktop\UniqueIT\UniqueText\obj\Debug\UniqueText.frmMain.resources
+D:\_Projects\GitHub Projects\UniqueText\UniqueText\bin\Debug\AppDataDB.mdf
+D:\_Projects\GitHub Projects\UniqueText\UniqueText\bin\Debug\AppDataDB_log.ldf
+D:\_Projects\GitHub Projects\UniqueText\UniqueText\bin\Debug\UniqueText.exe.config
+D:\_Projects\GitHub Projects\UniqueText\UniqueText\bin\Debug\UniqueText.exe
+D:\_Projects\GitHub Projects\UniqueText\UniqueText\bin\Debug\UniqueText.pdb
+D:\_Projects\GitHub Projects\UniqueText\UniqueText\obj\Debug\UniqueText.frmMain.resources
+D:\_Projects\GitHub Projects\UniqueText\UniqueText\obj\Debug\UniqueText.Properties.Resources.resources
+D:\_Projects\GitHub Projects\UniqueText\UniqueText\obj\Debug\UniqueText.csproj.GenerateResource.Cache
+D:\_Projects\GitHub Projects\UniqueText\UniqueText\obj\Debug\UniqueText.csproj.CoreCompileInputs.cache
+D:\_Projects\GitHub Projects\UniqueText\UniqueText\obj\Debug\UniqueText.exe
+D:\_Projects\GitHub Projects\UniqueText\UniqueText\obj\Debug\UniqueText.pdb
